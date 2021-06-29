@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ..\screenshot
+---
+
 ### Event Listeners
 
 The addEventListener() method takes two arguments,an event listener and a callback function.
@@ -40,7 +44,7 @@ selecetElement.addEventListener('eventlistener', e => {
 </html>
 ```
 
-<img src="C:\Users\minstone\AppData\Roaming\Typora\typora-user-images\image-20210629162816344.png" alt="image-20210629162816344" style="zoom: 67%;" />
+![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629162816344.png)
 
 #### Double Click
 
@@ -68,7 +72,7 @@ selecetElement.addEventListener('eventlistener', e => {
 </html>
 ```
 
-<img src="C:\Users\minstone\AppData\Roaming\Typora\typora-user-images\image-20210629163041124.png" alt="image-20210629163041124" style="zoom:67%;" />
+![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629163041124.png)
 
 #### Mouse enter 
 
@@ -95,6 +99,8 @@ selecetElement.addEventListener('eventlistener', e => {
   </body>
 </html>
 ```
+
+![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629163041124.png)
 
 #### input value
 
@@ -128,7 +134,7 @@ selecetElement.addEventListener('eventlistener', e => {
 </html>
 ```
 
-![image-20210629164026199](C:\Users\minstone\AppData\Roaming\Typora\typora-user-images\image-20210629164026199.png)
+![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629164026199.png)
 
 #### input event and change
 
@@ -159,7 +165,7 @@ selecetElement.addEventListener('eventlistener', e => {
 
 
 
-![image-20210629164300222](C:\Users\minstone\AppData\Roaming\Typora\typora-user-images\image-20210629164300222.png)
+![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629164300222.png)
 
 #### blur event
 
@@ -192,7 +198,7 @@ selecetElement.addEventListener('eventlistener', e => {
 </html>
 ```
 
-![image-20210629164448501](C:\Users\minstone\AppData\Roaming\Typora\typora-user-images\image-20210629164448501.png)
+![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629164448501.png)
 
 #### keypress keydwon and keyup
 
@@ -215,7 +221,7 @@ selecetElement.addEventListener('eventlistener', e => {
 </html>
 ```
 
-![image-20210629164646022](C:\Users\minstone\AppData\Roaming\Typora\typora-user-images\image-20210629164646022.png)
+![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629164646022.png)
 
 ###  In Summary
 

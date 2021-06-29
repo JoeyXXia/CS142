@@ -1,6 +1,6 @@
 ###  Full Stack Web Application Architecture
 
-![image-20210628212650986](HTML&CSS.assets/image-20210628212650986.png)
+![image-20210628212650986](D:\mygithub\CS142\CS142\notes\screenshot\image-20210628212650986.png)
 
 ### HyperText Markup Language
 
@@ -16,7 +16,7 @@
 
 #### CSS Box Model
 
-![image-20210628215355972](HTML&CSS.assets/image-20210628215355972.png)
+![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210628215355972.png)
 
 #### CSS distance units
 
