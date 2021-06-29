@@ -1,3 +1,10 @@
-CS 142
+##  notes and projects for cs142
 
-test
+### just for personal  learning record , please do not use for other purpose
+
+
+
+
+
+
+

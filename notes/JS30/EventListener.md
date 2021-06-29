@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ..\screenshot
----
-
 ### Event Listeners
 
 The addEventListener() method takes two arguments,an event listener and a callback function.
