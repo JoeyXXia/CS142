@@ -40,7 +40,7 @@ selecetElement.addEventListener('eventlistener', e => {
 </html>
 ```
 
-![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629162816344.png)
+![](EventListener.assets/image-20210629162816344.png)
 
 #### Double Click
 
@@ -68,7 +68,7 @@ selecetElement.addEventListener('eventlistener', e => {
 </html>
 ```
 
-![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629163041124.png)
+![](EventListener.assets/image-20210629163041124.png)
 
 #### Mouse enter 
 
@@ -96,7 +96,7 @@ selecetElement.addEventListener('eventlistener', e => {
 </html>
 ```
 
-![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629163041124.png)
+
 
 #### input value
 
@@ -130,7 +130,7 @@ selecetElement.addEventListener('eventlistener', e => {
 </html>
 ```
 
-![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629164026199.png)
+![](EventListener.assets/image-20210629164026199-1625060840359.png)
 
 #### input event and change
 
@@ -161,7 +161,7 @@ selecetElement.addEventListener('eventlistener', e => {
 
 
 
-![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629164300222.png)
+![](EventListener.assets/image-20210629164300222-1625060815717.png)
 
 #### blur event
 
@@ -194,12 +194,12 @@ selecetElement.addEventListener('eventlistener', e => {
 </html>
 ```
 
-![](D:\mygithub\CS142\CS142\notes\screenshot\image-20210629164448501.png)
+![](EventListener.assets/image-20210629164448501-1625060797180.png)
 
 #### keypress keydwon and keyup
 
 ```html
-<!DOCTYPE html>
+![image-20210629164646022](../screenshot/image-20210629164646022.png)<!DOCTYPE html>
 <html>
   <head>
     <title>Document Object Model:30 Days Of JavaScript</title>
