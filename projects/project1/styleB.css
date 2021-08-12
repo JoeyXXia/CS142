@@ -1,0 +1,70 @@
+.boxs {
+  display: flex;
+  height: 600px;
+  white-space: nowrap;
+}
+
+.boxA {
+  width: 100px;
+  height: 150px;
+  background-color: #eeeff2;
+  border-left:10px dotted #DDD0FF;
+  margin: 10px 10px;
+  padding-left: 10px;
+  font-size: 40px;
+  font-style: Tahoma;
+}
+
+.boxB {
+  width: 100px;
+  height: 150px;
+  background-color: #eeeff2;
+  border-left:10px dotted #DDD0FF;
+  margin: 10px 10px;
+  padding-left: 10px;
+  font-size: 40px;
+  font-style: Tahoma;
+}
+
+.boxC {
+  width: 100px;
+  height: 150px;
+  background-color: #eeeff2;
+  border-left:10px dotted #DDD0FF;
+  margin: 10px 10px;
+  padding-left: 10px;
+  font-size: 40px;
+  font-style: Tahoma;
+}
+.boxD {
+  width: 100px;
+  height: 150px;
+  background-color: #eeeff2;
+  border-left:10px dotted #DDD0FF;
+  margin: 10px 10px;
+  padding-left: 10px;
+  font-size: 40px;
+  font-style: Tahoma;
+}
+.boxE {
+  width: 100px;
+  height: 150px;
+  background-color: #eeeff2;
+  border-left:10px dotted #DDD0FF;
+  margin: 10px 10px;
+  padding-left: 10px;
+  font-size: 40px;
+  font-style: Tahoma;
+}
+
+.boxF {
+  width: 100px;
+  height: 150px;
+  background-color: #eeeff2;
+  border-left:10px dotted #DDD0FF;
+  margin: 10px 10px;
+  padding-left: 10px;
+  font-size: 40px;
+  font-style: Tahoma;
+  align-self: flex-end;
+}
