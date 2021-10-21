@@ -1,5 +1,5 @@
-import React from 'react';
-import './States.css';
+import React from "react";
+import "./States.css";
 
 /**
  * Define States, a React componment of CS142 project #4 problem #2.  The model
@@ -9,13 +9,24 @@ import './States.css';
 class States extends React.Component {
   constructor(props) {
     super(props);
-    console.log('window.cs142models.statesModel()', window.cs142models.statesModel());
+    console.log(
+      "window.cs142models.statesModel()",
+      window.cs142models.statesModel()
+    );
+    this.state = {
+      stringList: window.cs142models.statesModel(),
+    };
+    console.log(this.state.stringList);
   }
 
   render() {
     return (
-      <div>
-        Replace this with the code for CS142 Project #4, Problem #2
+      <div className="list-container">
+        <ul>
+          {this.state.stringList.map((list, id) => {
+            return <li key={id}>{list}</li>;
+          })}
+        </ul>
       </div>
     );
   }

@@ -23,6 +23,7 @@ class Example extends React.Component {
     // We read the example model data into the state variable 'name'
     this.state = {
       name: window.cs142models.exampleModel().name,
+      motto:window.cs142models.exampleModel().motto,
       counter: 0,
       inputValue: '',
       buttonWasClicked: '',
@@ -37,6 +38,8 @@ class Example extends React.Component {
     // smash the method to accomplish this passthrough to the method:
     //      this.handleChange = this.handleChange.bind(this);
   }
+
+    
 
   // React components have several "lifecycle functions"
   // https://reactjs.org/docs/react-component.html
@@ -104,6 +107,8 @@ class Example extends React.Component {
 
         <div className="motto-update">
           {/* Your problem #1 motto displaying and updating widget goes here */}
+          { this.state.name}
+          <p>{this.state.motto} </p>
         </div>
 
         <p>
