@@ -1,0 +1,8 @@
+.header ul {
+  display: flex;
+}
+.header li{
+  padding: 10px 20px;
+  margin: 10px 20px;
+  justify-content: center;
+}
